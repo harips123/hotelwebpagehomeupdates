@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+
+body
+{
+	font-family: sans-serif;
+	color: #3c3939;
+	 background-image:linear-gradient(to right, rgba(175,200,150,1), rgba(250,200,1000,1));
+		
+}
+.profile-card
+{	width : 350px;
+	margin : auto;
+	margin-top: 5em;
+	background: #fff;
+	box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+}
+.image-container
+{
+position: relative;
+
+}
+.info
+{
+	color: #4b4fe2;
+	margin-right: 16px;
+}
+.main-container
+{
+	padding: 10px;
+}
+.title
+{
+position: absolute;
+left: 15px;
+bottom: 0;	
+}@charset "ISO-8859-1";
+
+@charset "ISO-8859-1";
